@@ -1,6 +1,6 @@
 ### Hi there 👋
-Я люблю читать
-![я читаю](https://media.discordapp.net/attachments/1134879268824944842/1148380549434572831/image.png?width=1034&height=910)
+#### Я люблю читать
+![я читаю](https://media.discordapp.net/attachments/1134879268824944842/1148381965444206642/image.png?width=986&height=910)
 <!--
 **jix1351/jix1351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
