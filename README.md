@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on ...
+My [gitlab account](https://gitlab.com/mrjixrus)
+
+Like doing some coding
 <!--
 **jix1351/jix1351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 -->
