@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My [gitlab account](https://gitlab.com/mrjixrus)
+My [gitlab account](https://gitlab.com/mrjixrus) (after feb 17 feb raised our own git)
 
 Like doing some coding
 <!--
